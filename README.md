@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Mikhail Andreev</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Mixaled</h1>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> **`Digital Craftsman (Developer)`**
