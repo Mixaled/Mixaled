@@ -1,4 +1,4 @@
-### $${\color{lightblue}Hi \space 👋 \space \color{lightblue}I'm \space \color{orange}Mixaled}$$
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Mikhail Andreev</h1>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> **`Digital Craftsman (Developer)`**
@@ -7,7 +7,7 @@
 
 <h3 align="center">Welcome to my GitHub profile! I'm Mikhail(Mixaled), a passionate developer with a flair for creating digital magic. Whether it's weaving the web with code or automating the mundane, I'm all about crafting experiences that resonate and solutions that endure.</h3>
 
-    
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
 </div>
@@ -19,8 +19,10 @@
 
 
 
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 <h3 align="center">I'm a relentless learner, always seeking to expand my horizons and delve into the latest technologies. Currently, I'm on an exciting journey into the realms of PyTorch and TensorFlow, exploring the intricate landscapes of deep learning and neural networks.</h3>
+
 
 
 
@@ -28,6 +30,7 @@
 
 - Feel free to connect with me on [Telegram](https://t.me/slepky).
 - tg: @slepky
+
   
 <em>I'll be happy to meet you more!😊</em>
 
